@@ -1,2 +1,7 @@
 print ("esimene")
+
+Araabia:
 print ("1.")
+
+Rooma:
+print ("I")
