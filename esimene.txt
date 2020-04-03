@@ -1,2 +1,2 @@
 print ("esimene")
-print ("I")
+print ("1.")
